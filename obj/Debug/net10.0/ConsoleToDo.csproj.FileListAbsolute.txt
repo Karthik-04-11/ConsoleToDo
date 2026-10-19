@@ -1,0 +1,14 @@
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/bin/Debug/net10.0/ConsoleToDo
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/bin/Debug/net10.0/ConsoleToDo.deps.json
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/bin/Debug/net10.0/ConsoleToDo.runtimeconfig.json
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/bin/Debug/net10.0/ConsoleToDo.dll
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/bin/Debug/net10.0/ConsoleToDo.pdb
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.AssemblyInfoInputs.cache
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.AssemblyInfo.cs
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.csproj.CoreCompileInputs.cache
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.dll
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/refint/ConsoleToDo.dll
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.pdb
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ConsoleToDo.genruntimeconfig.cache
+/Users/karthikbalabathula/Documents/Dotnet Training/ConsoleToDo/obj/Debug/net10.0/ref/ConsoleToDo.dll
